@@ -81,5 +81,5 @@ int main(){
 		cout << "val: " << L3->val <<endl;
 		L3 = L3->next;
 	}
-
+	return 0;
 }
